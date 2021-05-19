@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" SelectedStyle="">
+    <b:Source>
+        <b:Year>2019</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Sentiment Analysis on WhatsApp Group Chat Using R</b:Title>
+        <b:Tag>joshi2019sentiment</b:Tag>
+        <b:Publisher>Springer</b:Publisher>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Joshi</b:Last>
+                        <b:First>Sunil</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>47–55</b:Pages>
+        <b:JournalName>Data, Engineering and Applications</b:JournalName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2018</b:Year>
+        <b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+        <b:SourceType>ConferenceProceedings</b:SourceType>
+        <b:Title>Customer sentiment in web-based service interactions: Automated analyses and new insights</b:Title>
+        <b:Tag>yom2018customer</b:Tag>
+        <b:BookTitle>Companion Proceedings of the The Web Conference 2018</b:BookTitle>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Yom-Tov</b:Last>
+                        <b:Middle>B.</b:Middle>
+                        <b:First>Galit</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Ashtar</b:Last>
+                        <b:First>Shelly</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Altman</b:Last>
+                        <b:First>Daniel</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Natapov</b:Last>
+                        <b:First>Michael</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Barkay</b:Last>
+                        <b:First>Neta</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Westphal</b:Last>
+                        <b:First>Monika</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Rafaeli</b:Last>
+                        <b:First>Anat</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>1689–1697</b:Pages>
+        <b:ConferenceName>Companion Proceedings of the The Web Conference 2018</b:ConferenceName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2020</b:Year>
+        <b:Volume>10</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Chatbot Experiences of Informal Language Learners: A Sentiment Analysis</b:Title>
+        <b:Tag>alm2020chatbot</b:Tag>
+        <b:Publisher>IGI Global</b:Publisher>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Alm</b:Last>
+                        <b:First>Antonie</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Nkomo</b:Last>
+                        <b:Middle>M.</b:Middle>
+                        <b:First>Larian</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>51–65</b:Pages>
+        <b:JournalName>International Journal of Computer-Assisted Language Learning and Teaching (IJCALLT)</b:JournalName>
+        <b:Number>4</b:Number>
+    </b:Source>
+    <b:Source>
+        <b:Year>2020</b:Year>
+        <b:Volume>21</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Evaluation of student feedback within a MOOC using sentiment analysis and target groups</b:Title>
+        <b:Tag>lundqvist2020evaluation</b:Tag>
+        <b:Publisher>Athabasca University Press (AU Press)</b:Publisher>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Lundqvist</b:Last>
+                        <b:First>Karsten</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Liyanagunawardena</b:Last>
+                        <b:First>Tharindu</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Starkey</b:Last>
+                        <b:First>Louise</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>140–156</b:Pages>
+        <b:JournalName>International Review of Research in Open and Distributed Learning</b:JournalName>
+        <b:Number>3</b:Number>
+    </b:Source>
+    <b:Source>
+        <b:Year>2017</b:Year>
+        <b:Volume>137</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Sentiment analysis of player chat messaging in the video game StarCraft 2: Extending a lexicon-based model</b:Title>
+        <b:Tag>thompson2017sentiment</b:Tag>
+        <b:Publisher>Elsevier</b:Publisher>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Thompson</b:Last>
+                        <b:Middle>J.</b:Middle>
+                        <b:First>Joseph</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Leung</b:Last>
+                        <b:Middle>H. M.</b:Middle>
+                        <b:First>Betty</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Blair</b:Last>
+                        <b:Middle>R.</b:Middle>
+                        <b:First>Mark</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Taboada</b:Last>
+                        <b:First>Maite</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>149–162</b:Pages>
+        <b:JournalName>Knowledge-Based Systems</b:JournalName>
+    </b:Source>
+</b:Sources>
