@@ -1,0 +1,11 @@
+==> Read papers related to the Emotion and Emotion Recognition.
+==> Deside the Idea of work.i.e which Emotion to work on.
+==> Take a decision on how to approach the problem.
+==> Make the java and python code for the user interaction and the Input processing.
+==> Search for the datasets
+==> Train the code.
+==> Testing phase for the runing code.
+==> Make changes to Improve the performance.
+==> Document the full process.
+==> Record the full working for the submission.
+==> Final check of both the code and the RootCT file before submitting.
