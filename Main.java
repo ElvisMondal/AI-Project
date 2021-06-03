@@ -34,14 +34,14 @@ public class Main {
             myWriter.write(dn + "\n");
             myWriter.write(sn);
             myWriter.close();
-            System.out.println("Successfully wrote to the file.");    // Change the code
+            System.out.println("Successfully wrote to the file.");    
         } catch (IOException e) {
             System.out.println("An error occurred.");
             e.printStackTrace();
         }
 
         String filePath = "D:\\DePaul University\\3rd Quarter\\Artificial Intelligence\\FinalProject\\Emotion.py";
-        ProcessBuilder pb = new ProcessBuilder()           //Change the variables
+        ProcessBuilder pb = new ProcessBuilder()           
                 .command("python", "-u",filePath);
         Process p = pb.start();
         BufferedReader in = new BufferedReader(
