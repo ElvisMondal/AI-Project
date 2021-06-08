@@ -11,7 +11,7 @@ public class Main {
         String[] sd = {"cheated", "sad", "bored", "fearful", "embarrassed", "cheated", "hated", "belittled", "alone", "belittled", "demoralized", "derailed", "powerless", "singled out"};
         String[] dc={"Motivation.txt","Motivate1.txt"};
         int index;
-        boolean retval;
+        boolean retval,em;
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         System.out.println("HI How are you");
@@ -26,22 +26,26 @@ public class Main {
         System.out.println("You mind telling me Something about you present situation?");
         sn = br.readLine();
 
+        System.out.println("How often do yo meet yup with friends");
+        n= br.readLine();
+
 
         try {
             FileWriter myWriter = new FileWriter("D:\\DePaul University\\3rd Quarter\\Artificial Intelligence\\FinalProject\\UserResponse.txt");
             myWriter.write(h + "\n");
             myWriter.write(d + "\n");
             myWriter.write(dn + "\n");
-            myWriter.write(sn);
+            myWriter.write(sn + "\n");
+            myWriter.write(n);
             myWriter.close();
-            System.out.println("Successfully wrote to the file.");    
+            System.out.println("Successfully wrote to the file.");
         } catch (IOException e) {
             System.out.println("An error occurred.");
             e.printStackTrace();
         }
 
         String filePath = "D:\\DePaul University\\3rd Quarter\\Artificial Intelligence\\FinalProject\\Emotion.py";
-        ProcessBuilder pb = new ProcessBuilder()           
+        ProcessBuilder pb = new ProcessBuilder()           //Change the variables
                 .command("python", "-u",filePath);
         Process p = pb.start();
         BufferedReader in = new BufferedReader(
@@ -53,7 +57,11 @@ public class Main {
         }
         //int exitCode = p.waitFor();
         String ot = buffer.toString();
-        System.out.println("Emotion:"+ot);
+        em = Arrays.asList(sd).contains(ot);
+        if(em)
+           System.out.println("Emotion:"+"Sad");
+        else
+            System.out.println("Out of Scope");
         //System.out.println("Process exit value:" + exitCode);
         in.close();
 
