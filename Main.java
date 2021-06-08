@@ -45,7 +45,7 @@ public class Main {
         }
 
         String filePath = "D:\\DePaul University\\3rd Quarter\\Artificial Intelligence\\FinalProject\\Emotion.py";
-        ProcessBuilder pb = new ProcessBuilder()           //Change the variables
+        ProcessBuilder pb = new ProcessBuilder()           
                 .command("python", "-u",filePath);
         Process p = pb.start();
         BufferedReader in = new BufferedReader(
@@ -77,7 +77,7 @@ public class Main {
                     br = new BufferedReader(new FileReader("D:\\DePaul University\\3rd Quarter\\Artificial Intelligence\\FinalProject\\"+dc[index]));
 
 
-                    String contentLine = br.readLine();   //Change the code
+                    String contentLine = br.readLine();   
                     while (contentLine != null) {
                         System.out.println(contentLine);
                         contentLine = br.readLine();
